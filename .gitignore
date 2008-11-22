@@ -1,0 +1,10 @@
+.DS_Store
+log/*
+tmp/*
+TAGS
+*~
+.#*
+.hgignore
+.hg/*
+.svn/*
+tarballs/*.tar.gz
